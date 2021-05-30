@@ -1,0 +1,27 @@
+body {
+  padding: 25px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+canvas {
+  margin: 5px;
+}
+
+#filed {
+  margin: 10px;
+}
+
+#info {
+  color: darkred;
+}
+
+#chat {
+  margin: 10px;
+}
+#newGameButton {
+  display: none;
+}
